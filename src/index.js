@@ -12,8 +12,7 @@ const kb = require('./keyboard_buttons')
 const database = require('../database.json')
 
 const bot = new TelegramBot(config.TOKEN, {
-    polling: true,
-    request: { proxy: 'http://46.101.121.186:1697' }
+    polling: true
 })
 
 helper.logStart()
