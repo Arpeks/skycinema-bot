@@ -1,0 +1,104 @@
+{
+	"sky": {
+		"uuid": "c1",
+		"name": "Sky",
+		"picture": "https://pp.userapi.com/c840728/v840728445/16d21/PgS2ZnkMWtY.jpg",
+		"link": "http://skystupino.ru/",
+		"phone": "+7 (496) 649-49-50",
+		"email": "skystupino@mail.ru",
+		"location": {
+			"latitude": 54.898111,
+			"longitude": 38.078723
+		}
+	},
+	"films": [
+		{
+			"uuid": "f1",
+			"name": "Во власти стихии",
+			"type": "Приключение, Мелодрама",
+			"year": 2018,
+			"rate": 6.2,
+			"length": 101,
+			"country": "США",
+			"link": "https://www.kinopoisk.ru/film/vo-vlasti-stikhii-2018-1015040/",
+			"picture": "https://www.kinopoisk.ru/images/film_big/1015040.jpg"
+		},
+		{
+			"uuid": "f2",
+			"name": "Инсомния",
+			"type": "Детектив, Триллер, Ужасы",
+			"year": 2018,
+			"rate": 5.8,
+			"length": 106,
+			"country": "Испания, Аргентина, Уругвай",
+			"link": "https://www.kinopoisk.ru/film/insomniya-2018-1047708/",
+			"picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_1047708.jpg"
+		},
+		{
+			"uuid": "f3",
+			"name": "Фото на память",
+			"type": "Триллер, Ужасы",
+			"year": 2018,
+			"rate": 4.8,
+			"length": 73,
+			"country": "Россия",
+			"link": "https://www.kinopoisk.ru/film/foto-na-pamyat-2018-1108400/",
+			"picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_1108400.jpg"
+		},
+		{
+			"uuid": "f4",
+			"name": "Суперсемейка 2",
+			"type": "Мультфильм, Приключение, Семейный",
+			"year": 2018,
+			"rate": 7.6,
+			"length": 118,
+			"country": "США",
+			"link": "https://www.kinopoisk.ru/film/supersemeyka-2-2018-839650/",
+			"picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_839650.jpg"
+		},
+		{
+			"uuid": "f5",
+			"name": "Ты водишь!",
+			"type": "Комедия",
+			"year": 2018,
+			"rate": 5.5,
+			"length": 100,
+			"country": "США",
+			"link": "https://www.kinopoisk.ru/film/ty-vodish-2018-759874/",
+			"picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_759874.jpg"
+		},
+		{
+			"uuid": "f6",
+			"name": "Сага о чудовище. Сумерки",
+			"type": "Фэнтези, Ужасы, Драма",
+			"year": 2018,
+			"rate": 6.1,
+			"length": 92,
+			"country": "США",
+			"link": "https://www.kinopoisk.ru/film/939579/",
+			"picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_939579.jpg"
+		},
+		{
+			"uuid": "f7",
+			"name": "Распрекрасный принц",
+			"type": "Мультфильм, Комедия, Музыкальный",
+			"year": 2018,
+			"rate": 0,
+			"length": 90,
+			"country": "США, Канада",
+			"link": "https://www.kinopoisk.ru/film/rasprekrasnyy-prints-2018-912012/",
+			"picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_912012.jpg"
+		},
+		{
+			"uuid": "f8",
+			"name": "8 подруг Оушена",
+			"type": "Боевик, Комедия, Криминальный",
+			"year": 2018,
+			"rate": 6.2,
+			"length": 110,
+			"country": "США",
+			"link": "https://www.kinopoisk.ru/film/983177/",
+			"picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_983177.jpg"
+		}
+	]
+}
